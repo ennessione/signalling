@@ -1,0 +1,523 @@
+comment, section id, list of segment ids
+section, T437, 131639384
+section, T385A, 612066250
+section, T195, 1359202637
+section, T438, 644919437, 2045869, 1828173494
+section, T384, 1420506721, 983030129, 1107778172, 861117047, 2010016203, 500145112
+section, T196, 2091446398, 1727362944, 2146115757, 771064241, 1468392477, 1114666992
+section, T206, 1523733875, 2047417578, 879094664
+section, T509, 1067742356
+section, T510, 715523797, 1199922969, 1134532657
+section, T458, 624860440
+section, T456, 1924676857, 138792209, 787938632
+section, T383, 357517416, 1582307486, 1757945728
+section, T382, 1905962401, 1968312205, 666253481
+section, T381, 1276884822, 1986121021, 1146938017, 457540404, 754781107, 888922275, 1703230109, 840999258
+section, T439, 2038442865, 1023055017, 979240248, 618558866, 803151340, 358140600
+section, T197, 475875275, 738496746, 1185909707, 877545981, 740126069, 629196254, 1725403250, 714715447, 1756507549, 227617089
+section, T205, 1541671403, 344393853, 924243260, 1500458128, 1498475706, 1830439109
+section, T511, 941046358, 152321065, 433784463, 958011521, 144738242, 1317077261
+section, T512, 2134407020, 1214153526, 1336874606, 1202929340, 1447779712, 1917801596
+section, T198, 2146824245, 1915453055, 60734614
+section, T204, 676914688, 547916957, 281655331, 1457931186, 1069150587, 1399242380, 2122622285, 304110171, 1673641779, 1127161098, 1618310496, 565036195, 1993456283, 1022866797
+section, T453, 420217654, 554193761, 474910208
+section, T455, 932273501
+section, T454, 1762251725, 1705124913, 112749366
+section, T380, 1025758969
+section, T443, 604436552
+section, T199, 1177635066
+section, T526, 336206381
+section, T527, 670956222
+section, T721, 796119731
+section, T513, 377247616
+section, T452, 1245227903
+section, T4541, 2079264449
+section, Sid10, 1048288523, 963199210, 1860657006, 1528307015, 340361956, 253777679, 826043058, 1680812756
+section, T521, 1908931568
+section, Sid11, 511559220
+section, T200, 60372645
+section, T528, 231174658, 917380998, 924677372
+section, T530, 1297815805, 524775378, 1915658453
+section, T522, 2062497191, 551266310, 13587150, 97754068, 1687438859, 1496943672
+section, T524, 420973120
+section, T523, 1413052441, 1062299395, 406951990
+section, T525, 1814205959, 830718049, 472247748, 714434294
+section, T720, 338646453
+section, T532, 1157022652, 329690158, 767497506, 60749638, 396322455, 1454882811
+section, T531, 6127886, 2022613115, 19354823, 545300948, 707678125, 2089704907, 1790963270, 23216593
+section, T718, 453263261, 279840440, 546088261
+section, T717, 1069295457, 1295406363, 589498546, 1803664274, 470607814
+section, T533, 2029283273, 1282856709, 478763237, 1210347849
+section, T534, 563364199
+section, T535, 354839290
+section, T716, 1389725843
+section, T715, 1164777466, 956480190, 1848362648, 90174184, 888188906
+section, T538, 569654599, 505712883, 1002216592
+section, T541, 1112129990
+section, T815, 365855656, 1088876334, 1616663445
+section, T712, 2097091095
+section, T542, 297619337
+section, T763, 987065307
+section, T808B, 228081031
+section, T711B, 553264125
+section, T808A, 864009229
+section, T711A, 1943522400
+section, T543, 2090017158
+section, T719, 1901059689, 1750984555, 1727161543, 1993184051, 966309722, 1845946213
+section, T725, 740596511
+section, T724, 220686424
+section, T440_T440, 446298811, 1011684354
+section, T540, 1845672761, 184934126, 1212529506, 1131425541, 1255460232, 1433375298, 1195848090
+section, T442, 1638937439, 90049072, 1936818446, 120780166, 463033461, 487626112, 1917688360, 1870422364, 925431192, 371966694, 429766285, 10668580, 1715679193, 288411428, 654881447, 1178188813, 839721757, 474512215, 1481979733
+section, TA1, 49282986
+section, TA2, 2074915248
+section, TA3, 2034604986
+section, TA4, 1663537187
+section, TA5, 1663313063
+section, TA6, 92568225
+section, T5301, 2081994403
+comment, segment id, point role, crossover role, from node, to node, length
+segment, 131639384, None, none, N1_2, N1_3, 43
+segment, 612066250, None, none, N104, N105, 49
+segment, 644919437, None, none, N1_3, N2_2, 56
+segment, 1420506721, Normal, none, N105, N3_2, 50
+segment, 1359202637, None, none, N106, N1, 19
+segment, 2091446398, None, none, N1, N4_2, 37
+segment, 1727362944, Reverse, none, N4_2, N2, 30
+segment, 1107778172, Reverse, none, N2, N3_2, 31
+segment, 983030129, None, none, N3_2, N27, 19
+segment, 2045869, Normal, none, N2_2, N107, 67
+segment, 1828173494, Reverse, none, N2_2, N3, 28
+segment, 2010016203, Reverse, none, N3, N5_2, 28
+segment, 861117047, None, none, N5_2, N6_2, 2
+segment, 357517416, None, none, N6_2, N7_2, 3
+segment, 1582307486, Normal, none, N7_2, N4, 49
+segment, 2146115757, Normal, none, N4_2, N26, 20
+segment, 771064241, Normal, none, N8_2, N9_2, 66
+segment, 1523733875, Normal, none, N108, N10_2, 154
+segment, 1468392477, Reverse, none, N8_2, N5, 27
+segment, 879094664, Reverse, none, N5, N10_2, 27
+segment, 2047417578, None, none, N10_2, N11_2, 20
+segment, 1067742356, None, none, N109, N12_2, 85
+segment, 715523797, Normal, none, N12_2, N13_2, 73
+segment, 624860440, None, none, N110, N6, 98
+segment, 1924676857, None, none, N6, N14_2, 2
+segment, 138792209, Reverse, none, N14_2, N7, 29
+segment, 1134532657, Reverse, none, N7, N13_2, 30
+segment, 787938632, Normal, none, N14_2, N111, 75
+segment, 1199922969, None, none, N13_2, N8, 9
+segment, 475875275, Normal, none, N9_2, N15_2, 62
+segment, 1757945728, Reverse, none, N7_2, N9, 34
+segment, 1185909707, Reverse, none, N9, N15_2, 34
+segment, 738496746, None, A, N15_2, N10, 15
+segment, 1905962401, None, none, N4, N16_2, 1
+segment, 941046358, None, none, N8, N17_2, 1
+segment, 1541671403, None, A, N11_2, N11, 35
+segment, 152321065, Reverse, none, N17_2, N12, 25
+segment, 924243260, None, B, N12, N11, 20
+segment, 344393853, None, B, N11, N13, 26
+segment, 1756507549, None, none, N13, N18_2, 2
+segment, 740126069, Reverse, B, N18_2, N10, 6
+segment, 1500458128, Normal, A, N11, N20_2, 55
+segment, 877545981, Normal, A, N10, N21_2, 11
+segment, 1968312205, Normal, none, N16_2, N14, 48
+segment, 2038442865, Normal, none, N107, N22_2, 99
+segment, 666253481, Reverse, none, N16_2, N15, 28
+segment, 979240248, Reverse, none, N15, N22_2, 28
+segment, 803151340, None, none, N23_2, N24_2, 1
+segment, 1276884822, None, A, N14, N16, 22
+segment, 629196254, None, B, N10, N17, 29
+segment, 1146938017, None, none, N17, N25_2, 2
+segment, 1986121021, Reverse, B, N25_2, N16, 8
+segment, 457540404, None, none, N26_2, N18, 82
+segment, 754781107, None, B, N16, N19, 19
+segment, 358140600, Reverse, none, N19, N23_2, 26
+segment, 1725403250, None, none, N21_2, N27_2, 24
+segment, 144738242, Reverse, none, N19_2, N20, 28
+segment, 1830439109, Reverse, none, N20, N20_2, 28
+segment, 1317077261, Normal, none, N19_2, N21, 66
+segment, 1498475706, None, none, N20_2, N28_2, 11
+segment, 1023055017, None, none, N22_2, N22, 1
+segment, 618558866, Normal, none, N22, N23_2, 59
+segment, 888922275, Normal, A, N16, N26_2, 11
+segment, 1703230109, Normal, none, N25_2, N23, 9
+segment, 840999258, Reverse, none, N23, N26_2, 9
+segment, 227617089, Normal, none, N18_2, N24, 8
+segment, 714715447, Reverse, none, N24, N21_2, 9
+segment, 433784463, Normal, none, N17_2, N25, 43
+segment, 958011521, None, none, N25, N19_2, 1
+segment, 1114666992, None, none, N26, N8_2, 42
+segment, 500145112, Normal, none, N27, N5_2, 20
+segment, 676914688, None, none, N28_2, N29_2, 2
+segment, 2134407020, Normal, none, N21, N30_2, 57
+segment, 547916957, Reverse, none, N29_2, N28, 28
+segment, 1336874606, Reverse, none, N28, N30_2, 27
+segment, 281655331, Normal, none, N29_2, N31, 15
+segment, 1214153526, None, none, N30_2, N41, 2
+segment, 2146824245, Normal, none, N27_2, N33_2, 116
+segment, 1069150587, Reverse, none, N31_2, N34, 14
+segment, 1399242380, Reverse, none, N34_2, N29, 33
+segment, 60734614, Reverse, none, N29, N33_2, 23
+segment, 1915453055, None, none, N33_2, N30, 4
+segment, 304110171, Normal, none, N31_2, N33, 22
+segment, 1457931186, None, none, N31, N31_2, 16
+segment, 1127161098, Normal, none, N35_2, N32, 59
+segment, 1618310496, Reverse, none, N35_2, N36_2, 51
+segment, 1673641779, None, none, N33, N35_2, 22
+segment, 2122622285, Normal, none, N34_2, N37_2, 57
+segment, 565036195, None, none, N34, N34_2, 15
+segment, 1202929340, Normal, none, N32_2, N35, 70
+segment, 1447779712, Reverse, none, N32_2, N36, 38
+segment, 420217654, Reverse, none, N36, N38_2, 30
+segment, 932273501, None, none, N111, N37, 165
+segment, 1762251725, None, none, N37, N39_2, 11
+segment, 1705124913, Reverse, none, N39_2, N38, 28
+segment, 474910208, Normal, none, N38, N38_2, 32
+segment, 554193761, None, none, N38_2, N39, 1
+segment, 112749366, Normal, none, N39_2, N40, 58
+segment, 1917801596, None, none, N41, N32_2, 3
+segment, 446298811, Normal, none, N24_2, N40_2, 47
+segment, 1011684354, None, none, N40_2, N41_2, 2
+segment, 1638937439, None, none, N41_2, N42_2, 2
+segment, 90049072, Reverse, none, N42_2, N102, 8
+segment, 463033461, Normal, none, N43_2, N46, 10
+segment, 10668580, None, none, N42, N112, 15
+segment, 1715679193, Reverse, none, N112, N47, 10
+segment, 925431192, Reverse, B, N43_2, N43, 6
+segment, 371966694, Reverse, B, N43, N45_2, 12
+segment, 429766285, Normal, A, N112, N43, 6
+segment, 1870422364, Normal, A, N43, N44_2, 14
+segment, 654881447, None, none, N45_2, N46_2, 21
+segment, 1917688360, None, none, N44_2, N113, 30
+segment, 474512215, Normal, none, N42_2, N100, 5
+segment, 120780166, None, none, N45, N43_2, 18
+segment, 487626112, Reverse, none, N46, N44_2, 10
+segment, 288411428, Normal, none, N47, N45_2, 9
+segment, 1025758969, None, none, N18, N114, 121
+segment, 604436552, None, none, N44, N48, 321
+segment, 1177635066, None, none, N30, N49, 158
+segment, 1993456283, None, none, N37_2, N50, 13
+segment, 336206381, None, none, N50, N51, 209
+segment, 1022866797, None, none, N36_2, N52, 2
+segment, 670956222, None, none, N52, N53, 217
+segment, 796119731, None, none, N32, N54, 372
+segment, 377247616, None, none, N35, N55, 150
+segment, 1245227903, None, none, N39, N56, 155
+segment, 2079264449, None, none, N40, N57, 165
+segment, 1178188813, Normal, none, N46_2, N47_2, 56
+segment, 839721757, Reverse, none, N46_2, N48_2, 56
+segment, 1048288523, Normal, none, N48_2, N49_2, 27
+segment, 1860657006, Reverse, none, N50_2, N49_2, 57
+segment, 1528307015, None, none, N58, N50_2, 41
+segment, 963199210, None, none, N49_2, N60, 98
+segment, 340361956, Normal, none, N50_2, N61, 125
+segment, 253777679, None, none, N51_2, N59, 58
+segment, 826043058, Normal, none, N60, N51_2, 98
+segment, 1680812756, Reverse, none, N61, N51_2, 125
+segment, 1908931568, None, none, N113, N62, 291
+segment, 511559220, None, none, N47_2, N63, 254
+segment, 60372645, None, none, N49, N64, 175
+segment, 231174658, Normal, none, N51, N52_2, 60
+segment, 924677372, Reverse, none, N53, N52_2, 62
+segment, 917380998, None, none, N52_2, N53_2, 31
+segment, 1297815805, Reverse, none, N53_2, N54_2, 75
+segment, 1915658453, Normal, none, N64, N54_2, 58
+segment, 524775378, None, none, N54_2, N103, 66
+segment, 2062497191, Normal, none, N63, N56_2, 55
+segment, 13587150, Reverse, none, N62, N56_2, 65
+segment, 1496943672, Normal, none, N59, N57_2, 62
+segment, 551266310, None, none, N56_2, N65, 19
+segment, 97754068, Reverse, none, N65, N57_2, 19
+segment, 1687438859, None, none, N57_2, N66, 1
+segment, 420973120, None, none, N48, N58_2, 107
+segment, 1413052441, None, none, N66, N59_2, 6
+segment, 1814205959, Normal, none, N58_2, N60_2, 41
+segment, 1062299395, Reverse, none, N59_2, N67, 27
+segment, 472247748, Reverse, none, N67, N101, 13
+segment, 830718049, None, none, N60_2, N61_2, 1
+segment, 406951990, Normal, none, N59_2, N68, 56
+segment, 1157022652, None, none, N61_2, N62_2, 2
+segment, 338646453, None, none, N54, N63_2, 102
+segment, 1993184051, Normal, none, N63_2, N65_2, 48
+segment, 966309722, None, none, N65_2, N64_2, 3
+segment, 1901059689, None, none, N87_2, N99, 22
+segment, 6127886, None, none, N55_2, N66_2, 25
+segment, 453263261, Normal, none, N64_2, N67_2, 67
+segment, 2022613115, Reverse, none, N66_2, N76, 8
+segment, 546088261, Reverse, none, N69, N67_2, 30
+segment, 19354823, None, none, N68_2, N69, 4
+segment, 707678125, Normal, B, N66_2, N70, 12
+segment, 545300948, Reverse, A, N70, N68_2, 5
+segment, 2089704907, None, B, N70, N71, 20
+segment, 279840440, None, none, N67_2, N72, 13
+segment, 329690158, Reverse, none, N62_2, N73, 39
+segment, 1790963270, None, A, N73, N70, 24
+segment, 396322455, Normal, none, N71, N69_2, 23
+segment, 767497506, Normal, none, N62_2, N75, 53
+segment, 60749638, None, none, N69_2, N74, 10
+segment, 1454882811, Reverse, none, N75, N69_2, 54
+segment, 23216593, Normal, none, N76, N68_2, 9
+segment, 1282856709, None, none, N74, N77, 5
+segment, 1069295457, None, none, N72, N70_2, 3
+segment, 1295406363, Normal, none, N70_2, N115, 4
+segment, 589498546, Reverse, none, N70_2, N78, 4
+segment, 2029283273, Normal, none, N77, N71_2, 51
+segment, 1803664274, None, none, N78, N79, 21
+segment, 470607814, None, none, N115, N80, 98
+segment, 1210347849, Reverse, none, N79, N71_2, 30
+segment, 478763237, None, none, N71_2, N81, 46
+segment, 563364199, None, none, N81, N82, 224
+segment, 354839290, None, none, N82, N72_2, 179
+segment, 1389725843, None, none, N80, N83, 439
+segment, 1164777466, None, none, N83, N73_2, 11
+segment, 569654599, Normal, none, N72_2, N74_2, 137
+segment, 956480190, Reverse, none, N73_2, N84, 45
+segment, 1002216592, Reverse, none, N84, N74_2, 45
+segment, 1848362648, Normal, none, N73_2, N75_2, 261
+segment, 505712883, None, none, N74_2, N85, 38
+segment, 1845672761, None, none, N85, N76_2, 3
+segment, 184934126, Normal, none, N76_2, N88, 18
+segment, 1131425541, Reverse, none, N77_2, N86, 45
+segment, 888188906, Reverse, none, N86, N75_2, 46
+segment, 1255460232, Normal, none, N77_2, N87, 99
+segment, 1433375298, Reverse, none, N76_2, N78_2, 100
+segment, 1195848090, None, none, N78_2, N79_2, 10
+segment, 90174184, None, none, N75_2, N80_2, 124
+segment, 1212529506, None, none, N88, N77_2, 18
+segment, 1112129990, None, none, N87, N89, 128
+segment, 365855656, None, none, N79_2, N81_2, 176
+segment, 2097091095, None, none, N80_2, N90, 179
+segment, 1088876334, Normal, none, N81_2, N91, 149
+segment, 297619337, None, none, N89, N82_2, 190
+segment, 1616663445, Reverse, none, N81_2, N92, 104
+segment, 987065307, None, none, N92, N83_2, 519
+segment, 228081031, None, none, N91, N93, 133
+segment, 553264125, None, none, N90, N94, 113
+segment, 864009229, None, none, N93, N84_2, 341
+segment, 1943522400, None, none, N94, N85_2, 341
+segment, 2090017158, None, none, N82_2, N86_2, 452
+segment, 740596511, None, none, N96, N97, 170
+segment, 220686424, None, none, N95, N98, 180
+segment, 1750984555, Normal, none, N97, N87_2, 63
+segment, 1727161543, Reverse, none, N98, N87_2, 53
+segment, 1845946213, Reverse, none, N99, N65_2, 22
+segment, 1481979733, None, none, N100, N44, 50
+segment, 714434294, Reverse, none, N101, N60_2, 13
+segment, 1936818446, None, none, N102, N45, 8
+segment, 49282986, None, none, N88_2, N1_2, 500
+segment, 2074915248, None, none, N89_2, N104, 500
+segment, 2034604986, None, none, N90_2, N106, 500
+segment, 1663537187, None, none, N91_2, N108, 500
+segment, 1663313063, None, none, N92_2, N109, 500
+segment, 92568225, None, none, N93_2, N110, 500
+segment, 2081994403, None, none, N103, N55_2, 66
+comment, node id, node type, graphical x, graphical y
+node, N1_2, Normal, 190, 195
+node, N104, Normal, 190, 315
+node, N1_3, Normal, 425, 195
+node, N105, Normal, 480, 315
+node, N2_2, Point, 765, 195
+node, N3_2, Point, 880, 315
+node, N106, Normal, 190, 440
+node, N1, Normal, 340, 440
+node, N4_2, Point, 575, 440
+node, N2, Normal, 725, 380
+node, N5_2, Point, 1150, 315
+node, N107, Normal, 1260, 195
+node, N3, Normal, 965, 260
+node, N6_2, Normal, 1190, 315
+node, N7_2, Point, 1225, 315
+node, N4, Normal, 1550, 315
+node, N8_2, Point, 835, 440
+node, N9_2, Normal, 1285, 440
+node, N108, Normal, 190, 575
+node, N10_2, Point, 1220, 575
+node, N5, Normal, 1035, 510
+node, N11_2, Normal, 1390, 575
+node, N109, Normal, 190, 705
+node, N12_2, Normal, 730, 705
+node, N13_2, Point, 1250, 705
+node, N110, Normal, 190, 810
+node, N6, Normal, 790, 810
+node, N14_2, Point, 815, 810
+node, N7, Normal, 1025, 760
+node, N111, Normal, 1395, 810
+node, N8, Normal, 1330, 705
+node, N15_2, Point, 1735, 440
+node, N9, Normal, 1485, 380
+node, N10, Crossover, 1890, 440
+node, N16_2, Point, 1570, 315
+node, N17_2, Point, 1350, 705
+node, N11, Crossover, 1610, 575
+node, N12, Normal, 1480, 650
+node, N13, Normal, 1805, 480
+node, N18_2, Point, 1825, 470
+node, N19_2, Point, 1615, 705
+node, N20_2, Point, 2010, 575
+node, N21_2, Point, 1975, 440
+node, N14, Normal, 2020, 315
+node, N22_2, Point, 2065, 195
+node, N15, Normal, 1810, 255
+node, N23_2, Point, 2450, 195
+node, N24_2, Normal, 2480, 195
+node, N16, Crossover, 2225, 315
+node, N17, Normal, 2120, 360
+node, N25_2, Point, 2150, 350
+node, N26_2, Point, 2305, 315
+node, N18, Normal, 2770, 315
+node, N19, Normal, 2330, 260
+node, N27_2, Normal, 2195, 440
+node, N20, Normal, 1815, 635
+node, N21, Normal, 2184, 705
+node, N28_2, Normal, 2185, 575
+node, N22, Silent, 2080, 195
+node, N23, Silent, 2230, 335
+node, N24, Silent, 1900, 460
+node, N25, Silent, 1580, 705
+node, N26, Silent, 628, 440
+node, N27, Silent, 1030, 315
+node, N29_2, Point, 2215, 575
+node, N30_2, Point, 2500, 705
+node, N28, Normal, 2355, 640
+node, N31_2, Point, 2440, 585
+node, N32_2, Point, 2580, 710
+node, N33_2, Point, 2840, 435
+node, N34_2, Point, 2570, 570
+node, N29, Normal, 2705, 510
+node, N30, Normal, 2880, 435
+node, N35_2, Point, 2635, 615
+node, N31, Silent, 2335, 580
+node, N32, Normal, 2970, 700
+node, N36_2, Silent, 2915, 615
+node, N33, Silent, 2545, 600
+node, N37_2, Silent, 2865, 540
+node, N34, Silent, 2540, 573
+node, N35, Normal, 2933, 761
+node, N36, Normal, 2740, 775
+node, N38_2, Point, 2885, 820
+node, N37, Normal, 2605, 820
+node, N39_2, Point, 2640, 825
+node, N38, Normal, 2755, 815
+node, N39, Normal, 2910, 820
+node, N40, Normal, 2915, 880
+node, N41, Silent, 2540, 705
+node, N40_2, Silent, 2765, 195
+node, N41_2, Normal, 2800, 195
+node, N42_2, Point, 2825, 195
+node, N43_2, Point, 3010, 135
+node, N44_2, Point, 3140, 115
+node, N42, Terminal, 2875, 115
+node, N112, Point, 2985, 115
+node, N45_2, Point, 3110, 70
+node, N43, Crossover, 3040, 115
+node, N46_2, Point, 3265, 50
+node, N113, Normal, 3310, 115
+node, N44, Normal, 3190, 195
+node, N45, Silent, 2955, 153
+node, N46, Silent, 3076, 124
+node, N47, Silent, 3006, 106
+node, N114, Terminal, 3420, 315
+node, N48, Normal, 4605, 195
+node, N49, Normal, 3780, 435
+node, N50, Normal, 2970, 540
+node, N51, Normal, 4010, 540
+node, N52, Normal, 2945, 615
+node, N53, Normal, 4030, 615
+node, N54, Normal, 4700, 625
+node, N55, Terminal, 3785, 761
+node, N56, Terminal, 3785, 820
+node, N57, Terminal, 3785, 880
+node, N47_2, Normal, 3485, 50
+node, N48_2, Normal, 3485, -10
+node, N49_2, Point, 3650, -10
+node, N50_2, Point, 3370, -70
+node, N58, Terminal, 3155, -70
+node, N51_2, Point, 4500, -10
+node, N59, Normal, 4745, -10
+node, N60, Silent, 4091, -10
+node, N61, Silent, 4335, -70
+node, N62, Normal, 4585, 115
+node, N63, Normal, 4635, 50
+node, N64, Normal, 4440, 435
+node, N52_2, Point, 4255, 540
+node, N53_2, Normal, 4370, 540
+node, N54_2, Point, 4755, 540
+node, N55_2, Normal, 5555, 540
+node, N56_2, Point, 4890, 50
+node, N57_2, Point, 5060, -10
+node, N65, Silent, 5000, 50
+node, N66, Normal, 5080, -10
+node, N58_2, Normal, 5180, 195
+node, N59_2, Point, 5150, -10
+node, N60_2, Point, 5455, 195
+node, N67, Normal, 5300, 90
+node, N61_2, Normal, 5475, 195
+node, N68, Terminal, 5520, -10
+node, N62_2, Point, 5495, 195
+node, N63_2, Normal, 5295, 625
+node, N64_2, Normal, 5650, 625
+node, N65_2, Point, 5610, 625
+node, N66_2, Point, 5760, 540
+node, N67_2, Point, 6135, 625
+node, N69, Normal, 5935, 580
+node, N68_2, Point, 5890, 570
+node, N70, Crossover, 5840, 540
+node, N71, Normal, 6015, 540
+node, N72, Normal, 6250, 625
+node, N73, Normal, 5680, 365
+node, N69_2, Point, 6175, 540
+node, N74, Normal, 6280, 540
+node, N75, Silent, 5855, 380
+node, N76, Silent, 5830, 555
+node, N77, Silent, 6330, 540
+node, N70_2, Point, 6300, 625
+node, N115, Silent, 6330, 625
+node, N78, Silent, 6330, 610
+node, N71_2, Point, 6475, 540
+node, N79, Normal, 6380, 585
+node, N80, Normal, 6625, 625
+node, N81, Normal, 6625, 540
+node, N82, Normal, 6910, 540
+node, N72_2, Normal, 7120, 540
+node, N83, Normal, 7180, 625
+node, N73_2, Point, 7225, 625
+node, N74_2, Point, 7405, 540
+node, N84, Normal, 7310, 585
+node, N75_2, Point, 7755, 625
+node, N85, Normal, 7470, 540
+node, N76_2, Point, 7485, 540
+node, N77_2, Point, 7555, 540
+node, N86, Normal, 7655, 580
+node, N87, Normal, 7760, 540
+node, N78_2, Silent, 7675, 460
+node, N79_2, Normal, 7710, 460
+node, N80_2, Normal, 8040, 625
+node, N88, Silent, 7525, 540
+node, N89, Normal, 8065, 540
+node, N81_2, Point, 8095, 460
+node, N90, Normal, 8320, 625
+node, N91, Normal, 8320, 460
+node, N82_2, Normal, 8360, 540
+node, N83_2, Boundary, 8860, 400
+node, N92, Normal, 8180, 400
+node, N93, Normal, 8525, 460
+node, N94, Normal, 8520, 625
+node, N84_2, Boundary, 8860, 460
+node, N85_2, Boundary, 8855, 625
+node, N86_2, Boundary, 8855, 540
+node, N95, Terminal, 4200, 790
+node, N96, Terminal, 4200, 845
+node, N97, Normal, 5080, 845
+node, N98, Normal, 5105, 790
+node, N87_2, Point, 5365, 720
+node, N99, Silent, 5500, 665
+node, N100, Silent, 2865, 195
+node, N101, Silent, 5380, 144
+node, N102, Silent, 2890, 172
+node, N88_2, Boundary, 10, 195
+node, N89_2, Boundary, 9, 315
+node, N90_2, Boundary, 10, 440
+node, N91_2, Boundary, 9, 575
+node, N92_2, Boundary, 8, 705
+node, N93_2, Boundary, 7, 810
+node, N103, Normal, 5173, 540

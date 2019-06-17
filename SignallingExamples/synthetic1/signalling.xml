@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataContext xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+    <conceptsource>tables</conceptsource>
+    <functionDomainType>
+        <entry>
+            <key>/safecap/control/ct:route:normal</key>
+            <value>Route</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:point:clear</key>
+            <value>Node</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:route:clear</key>
+            <value>Route</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:route:reverse</key>
+            <value>Route</value>
+        </entry>
+    </functionDomainType>
+    <functionInfo/>
+    <functionRangeType>
+        <entry>
+            <key>/safecap/control/ct:route:normal</key>
+            <value>Node</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:point:clear</key>
+            <value>Track</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:route:clear</key>
+            <value>Track</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:route:reverse</key>
+            <value>Node</value>
+        </entry>
+    </functionRangeType>
+    <functionTag>
+        <entry>
+            <key>/safecap/control/ct:route:normal</key>
+            <value>signalling</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:point:clear</key>
+            <value>signalling</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:route:clear</key>
+            <value>signalling</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:route:reverse</key>
+            <value>signalling</value>
+        </entry>
+    </functionTag>
+    <namespaces>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">B1_S22</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T44</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">A2_S2</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T1</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T2</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S23_S25</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T46</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:string">6A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:int">4</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S23_S24</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T46</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T47</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:string">6A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:int">4</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S24_S27</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T50</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T51</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:string">1B</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:int">2</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S26_S27</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T50</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T51</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:int">2</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:string">1B</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S4_B2</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T7</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:int">5</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:string">6B</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S5_B2</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T7</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:string">6B</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:int">5</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S2_S3</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T3</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T50</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T47</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:string">1A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:string">1B</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:int">2</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S2_SIG_DOWN7</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T3</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T50</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T49</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T48</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:int">2</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:string">1A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:string">1B</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S2_S5</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T3</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T6</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:string">1A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:int">3</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S2_S4</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T3</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T4</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T5</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:string">1A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:int">3</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S27_A1</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T52</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S3_B2</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T46</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T7</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:int">4</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:string">6A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:string">6B</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S25_S26</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T48</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T49</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">SIG_DOWN7_B2</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T46</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T7</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:normal</xs:l>
+                <r xsi:type="xs:int">4</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:string">6A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:reverse</xs:l>
+                <r xsi:type="xs:string">6B</r>
+            </values>
+        </block>
+        <block>
+            <kind>route</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">S22_S23</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:route:clear</xs:l>
+                <r xsi:type="xs:string">T45</r>
+            </values>
+        </block>
+        <block>
+            <kind>point</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:int">5</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:point:clear</xs:l>
+                <r xsi:type="xs:string">T7</r>
+            </values>
+        </block>
+        <block>
+            <kind>point</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">6B</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:point:clear</xs:l>
+                <r xsi:type="xs:string">T7</r>
+            </values>
+        </block>
+        <block>
+            <kind>point</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:int">2</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:point:clear</xs:l>
+                <r xsi:type="xs:string">T50</r>
+            </values>
+        </block>
+        <block>
+            <kind>point</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">1B</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:point:clear</xs:l>
+                <r xsi:type="xs:string">T50</r>
+            </values>
+        </block>
+        <block>
+            <kind>point</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:int">4</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:point:clear</xs:l>
+                <r xsi:type="xs:string">T46</r>
+            </values>
+        </block>
+        <block>
+            <kind>point</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">6A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:point:clear</xs:l>
+                <r xsi:type="xs:string">T46</r>
+            </values>
+        </block>
+        <block>
+            <kind>point</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:int">3</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:point:clear</xs:l>
+                <r xsi:type="xs:string">T3</r>
+            </values>
+        </block>
+        <block>
+            <kind>point</kind>
+            <values>
+                <xs:l xsi:type="xs:string">Id</xs:l>
+                <r xsi:type="xs:string">1A</r>
+            </values>
+            <values>
+                <xs:l xsi:type="xs:string">ct:point:clear</xs:l>
+                <r xsi:type="xs:string">T3</r>
+            </values>
+        </block>
+        <cononical_id>safecap.control</cononical_id>
+        <id>safecap.control</id>
+    </namespaces>
+    <shortName>
+        <entry>
+            <key>/safecap/control/ct:route:normal</key>
+            <value>ct:route:normal</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:point:clear</key>
+            <value>ct:point:clear</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:route:clear</key>
+            <value>ct:route:clear</value>
+        </entry>
+        <entry>
+            <key>/safecap/control/ct:route:reverse</key>
+            <value>ct:route:reverse</value>
+        </entry>
+    </shortName>
+    <types>
+        <idToType>
+            <entry>
+                <key>A2_S2</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>S2_SIG_DOWN7</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>S4_B2</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>6A</key>
+                <value>Node</value>
+            </entry>
+            <entry>
+                <key>6B</key>
+                <value>Node</value>
+            </entry>
+            <entry>
+                <key>S22_S23</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>T45</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>T44</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>T47</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>T46</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>S23_S24</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>T49</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>S23_S25</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>T48</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>T1</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>T2</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>T3</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>S25_S26</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>T4</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>T5</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>SIG_DOWN7_B2</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>T6</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>T7</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>S3_B2</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>S5_B2</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>S2_S4</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>S2_S3</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>S27_A1</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>S2_S5</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>S26_S27</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>T50</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>S24_S27</key>
+                <value>Route</value>
+            </entry>
+            <entry>
+                <key>1A</key>
+                <value>Node</value>
+            </entry>
+            <entry>
+                <key>T52</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>1B</key>
+                <value>Node</value>
+            </entry>
+            <entry>
+                <key>T51</key>
+                <value>Track</value>
+            </entry>
+            <entry>
+                <key>2</key>
+                <value>Node</value>
+            </entry>
+            <entry>
+                <key>3</key>
+                <value>Node</value>
+            </entry>
+            <entry>
+                <key>4</key>
+                <value>Node</value>
+            </entry>
+            <entry>
+                <key>5</key>
+                <value>Node</value>
+            </entry>
+            <entry>
+                <key>B1_S22</key>
+                <value>Route</value>
+            </entry>
+        </idToType>
+    </types>
+</dataContext>
