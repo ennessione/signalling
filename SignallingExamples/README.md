@@ -46,8 +46,11 @@ The control table is synthesised as the actual one was not available.
 
 ## TODO
 
+There is a dire need for information in layout and signalling files.
+
 If there is interest it would be possible to export:
 
+- into other formats and formalisms
 - many more synthetic examples
 - obfuscated versions of real-life interlockings
 - obfuscated versions of real-life control tables
